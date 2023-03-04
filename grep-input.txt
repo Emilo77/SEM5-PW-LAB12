@@ -1,0 +1,4 @@
+burza
+2
+../data-txt/burza.txt
+../data-txt/komedia-omylek.txt
